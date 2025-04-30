@@ -1,23 +1,42 @@
+<div align="center"><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />Hello, I'm Nikhil Goud</h2></div>
+
+<div align="center">
+  
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Nikhil Goud
+</div>
 
-<h3 align="center">Driven by a passion for developing scalable web applications and AI-powered solutions that solve real-world challenges using cutting-edge technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilk17&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilk17" /> </p>
+<h2>🚀 About Me</h2>
+<div>
+  <blockquote>
+    ⚡ <em>I'm always turning ideas into reality—even if it means learning something new every day!</em>
+  </blockquote>
+</div>
+<table>
+  <tr>
+    <td>🔭</td>
+    <td>Currently building <strong><a href="https://darthai.tech">Darth AI</a></strong> – A multi-model SaaS platform simplifying AI for everyone</td>
+  </tr>
+  <tr>
+    <td>👨‍💻</td>
+    <td>All my work can be found at: <strong><a href="https://knikhil.me">knikhil.me</a></strong></td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td>Ask me about: <strong>React, Node.js, GSAP</strong></td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>Reach me at: <strong>knikhilgoud2004@gmail.com</strong></td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td><a href="https://drive.google.com/file/d/13i5fhv1iHtCWk5IrB5lW98v7a7L2_47b/view">View my Resume</a></td>
+  </tr>
+</table>
 
-- 🔭 I'm currently working on [Darth AI - A multi-model SaaS platform simplifying AI for everyone](https://darthai.tech)
-
-- 👨‍💻 All of my projects are available at [https://knikhil.me](https://knikhil.me)
-
-- 💬 Ask me about **react, nodejs, gsap**
-
-- 📫 How to reach me **knikhilgoud2004@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13i5fhv1iHtCWk5IrB5lW98v7a7L2_47b/view](https://drive.google.com/file/d/13i5fhv1iHtCWk5IrB5lW98v7a7L2_47b/view)
-
-- ⚡ Fun fact **I'm always looking for ways to turn ideas into reality, even if it means learning something new every day!**
-
-<h2 align="center">🚀 Featured Projects</h2>
+---
+<h2 >🚀 Featured Projects</h2>
 
 <div align="center">
   <table>
@@ -79,7 +98,7 @@
     </tr>
   </table>
 </div>
-<h2 align="center">🏆 Achievements</h2>
+<h2>🏆 Achievements</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilk17&theme=nord&column=4&margin-w=15&margin-h=15" alt="Trophies">
@@ -102,67 +121,41 @@
 </table>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
-  </a>
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/180x180.png" alt="Vercel" width="40" height="40"/>
-  </a>
-  <a href="https://render.com/" target="_blank" rel="noreferrer">
-    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_477db83f729d63210139ec7cd29c1351/render-render.png" alt="Render" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+<!-- Tech Stack Section -->
+
+<h2 align="left">⚙️ Tech Stack</h2>
+<hr/>
+
+<p align="center">🔮 Frontend Universe </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/FRAMER MOTION-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
-<h2 align="center">⚡ GitHub Stats & Activity</h2>
+
+<p align="center">⚡ Backend Galaxy  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">🛠️ Digital Arsenal </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLERK-6F42C1?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAUTH-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+<h2>⚡ GitHub Stats & Activity</h2>
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=nikhilk17&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="nikhilk17's Stats" />
