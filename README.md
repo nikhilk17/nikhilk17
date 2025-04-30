@@ -1,5 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Nikhil Goud</h1>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Nikhil Goud
+
 <h3 align="center">Driven by a passion for developing scalable web applications and AI-powered solutions that solve real-world challenges using cutting-edge technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilk17&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilk17" /> </p>
@@ -172,12 +173,27 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilk17&layout=compact&theme=radical&hide_border=true" alt="nikhilk17's Top Languages" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhil goud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil goud" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/k_nikhil17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_nikhil17" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/knikhilgtr2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="knikhilgtr2k" height="30" width="40" /></a>
-<a href="mailto:knikhilgoud2004@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
-</a>
-</p>
+## 🤝 Let's Connect & Create!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nikhil-goud-31519025b/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:knikhilgoud2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/nikhilk17" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>💬 Open to collaboration on impactful Full-stack projects</h3>
+  <p>💡 <i>"The best way to predict the future is to create it."</i></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Thanks for visiting my profile! Let's build something amazing together.
+</div>
